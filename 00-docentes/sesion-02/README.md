@@ -4,6 +4,22 @@ viernes 20 marzo 2026
 
 voy a anotar primero la materia que vimos, luego voy a incluir los códigos que hicimos en clases.
 
+## herramienta p5.js
+
+vamos a usar la herramienta p5.js, una biblioteca de JavaScript que nos permite dibujar y programar dentro de un lienzo gráfico, que se llama canvas en las páginas web. p5.js tiene muchas funciones predefinidas que nos facilitan la tarea de programar gráficos e interactividad.
+
+p5.js fue creada por la artista y programadora Lauren Lee McCarthy, y es mantenida por una comunidad de artistas, programadores, y educadores de la Processing Foundation. es una herramienta muy popular en el ámbito del arte digital y la educación en programación creativa.
+
+<https://p5js.org/>
+
+## editor de p5.js
+
+vamos a usar el editor en línea de p5.js, que es una plataforma web donde podemos escribir, guardar, y compartir nuestros códigos de p5.js. el editor tiene una interfaz sencilla, con un área para escribir código, un botón para correr el código, y una ventana para ver el resultado gráfico.
+
+la única regla importante es que no se hagan una cuenta para p5.js, sino que inicien sesión con su cuenta de github, para permitir compartir en público nuestras croqueras de p5.js.
+
+<https://editor.p5js.org/>
+
 ## funciones
 
 las funciones en JavaScript tienen la siguiente sintaxis
