@@ -34,3 +34,8 @@ function draw() {
   }
 }
 ```
+
+
+(```js 
+
+```) <- ayuda a visualizar el código como tal y no como apuntes, en este caso de JavaScript. En el primero se escribe antes del código, y el último para cerrar el código, abarcando así todo lo seleccionado.
