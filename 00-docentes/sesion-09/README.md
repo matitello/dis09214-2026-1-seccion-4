@@ -149,6 +149,34 @@ for (let i = 0; i < 5; i++) {
   text += "The number is " + i + "<br>";
 }
 ```
+```
+let posX = 0;
+let posY = 0;
+
+function setup() {
+  createCanvas(400, 400);
+  frameRate(100);
+}
+
+function draw() {
+  background(220);
+  
+  ellipse(posX, posY, 100, 100)
+
+  for (let i = 0; i < 10; i++) {
+    posX = mouseX;
+    posY = mouseY;
+  }
+}
+
+function mousePressed() {
+  if (posX < mouseX) {
+    fill(random(255), random(255), random(255));
+    ellipse(posX, posY, 10, 10);
+    return false;
+  }
+}
+```
 
 ### Solemne 02
 
