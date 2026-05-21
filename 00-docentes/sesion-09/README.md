@@ -181,8 +181,8 @@ function mousePressed() {
 ### Solemne 02
 
 1. Tomar una obra de arte (amplio) en Español o en América, describirlo brevemente en el encabezado del código como comentario para entenderlo.
-2. Responder a esta obra. ¿Cómo? Con un sketch en p5 que debe usar if, for, moverse (framecound, sinusoide, etc) y cada línea extremadamente comentada justo arriba.
-3. Antes de sere enviada deben hacer click en edit/tiny code
+2. Responder a esta obra. ¿Cómo? Con un sketch en p5 que debe usar if, for, moverse (framecount, sinusoide, etc) y cada línea extremadamente comentada justo arriba.
+3. Antes de ser enviada deben hacer click en edit/tiny code
 
 Debe llamarse Solemne-02
 
