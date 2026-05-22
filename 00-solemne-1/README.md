@@ -29,6 +29,6 @@ este curso tiene 28 estudiantes
 - [23-Kaela-Moraga/](./23-Kaela-Moraga)
 - [24-81194in/](./24-81194in)
 - [25-matitello/](./25-matitello)
-- [26-trinidadvasquez/](./26-trinidadvasquez)
+- [26-trinidad.vasquez/](./26-trinidad.vasquez)
 - [27-sofifigs/](./27-sofifigs)
 - [28-javierazzapata/](./28-javierazzapata)
